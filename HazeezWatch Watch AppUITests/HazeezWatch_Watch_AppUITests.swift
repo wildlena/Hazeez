@@ -1,13 +1,13 @@
 //
-//  HazeezUITests.swift
-//  HazeezUITests
+//  HazeezWatch_Watch_AppUITests.swift
+//  HazeezWatch Watch AppUITests
 //
-//  Created by leena alyami on 24/03/1445 AH.
+//  Created by leena alyami on 26/03/1445 AH.
 //
 
 import XCTest
 
-final class HazeezUITests: XCTestCase {
+final class HazeezWatch_Watch_AppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,13 +1,13 @@
 //
-//  HazeezUITestsLaunchTests.swift
-//  HazeezUITests
+//  HazeezWatch_Watch_AppUITestsLaunchTests.swift
+//  HazeezWatch Watch AppUITests
 //
-//  Created by leena alyami on 24/03/1445 AH.
+//  Created by leena alyami on 26/03/1445 AH.
 //
 
 import XCTest
 
-final class HazeezUITestsLaunchTests: XCTestCase {
+final class HazeezWatch_Watch_AppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
